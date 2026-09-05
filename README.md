@@ -52,3 +52,6 @@ Make sure that you've pressed enter and then run this one
 ros2 run demo_nodes_cpp talker
 ```
 
+You should see messages of "Hello World" being sent from one terminal and the other terminal echoing the same. 
+
+Congrats, you have now implemented a simple publisher-subscriber architecture in ROS2!
