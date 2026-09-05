@@ -1,0 +1,9 @@
+services:
+  ros2-demo:
+    # Pulls the prebuilt multi-arch image -- swap for `build: .` to
+    # build locally instead. See README for the buildx push command.
+    image: spg8/ros2-talker-listener:latest
+    container_name: ros2-demo
+    volumes:
+      - ./workspace:/root/ros2_ws
+    restart: unless-stopped
