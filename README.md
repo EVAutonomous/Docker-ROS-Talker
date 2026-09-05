@@ -4,9 +4,7 @@ Install VSCode: https://code.visualstudio.com/download?_exp_download=d53503e735
 
 Install Docker: https://www.docker.com/get-started/
 
-Create a login in Docker and note down your username
-
-Open github and get on the EVAutonomous channel?
+Create a Docker login in and note down your username
 
 Create a new folder in your machine
 
